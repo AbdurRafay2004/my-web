@@ -29,7 +29,7 @@ def run():
     st.write("# Don't mind me, I'm just testing things out 👋")
 
     
-    st.sidebar.success("Select a demo above.")
+    # st.sidebar.success("Select a demo above.")
 
     st.markdown(
         """
