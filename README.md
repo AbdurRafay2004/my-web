@@ -1,6 +1,4 @@
-# Welcome to streamlit
-
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+# Welcome to my project web
 
 Edit [Introduction.py](./Introduction.py) to customize this app to your heart's desire. ❤️
 
