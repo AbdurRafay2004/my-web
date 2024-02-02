@@ -36,19 +36,12 @@ def run():
         I will try to create a CGPA calculator using **Python** and **Streamlit**
 
         **👈 Select my demos from the sidebar** 
-
-        ### testing bullet list
-        - 1
-        - 2
-        - 3
-        - 4
-      
         
         """
     
     )
 
-    st.write("[~rafayyyyyyyyy](https://www.facebook.com/AbdurRafay2004/)")
+    st.write("[~rafay](https://www.facebook.com/AbdurRafay2004/)")
 
 
 if __name__ == "__main__":
