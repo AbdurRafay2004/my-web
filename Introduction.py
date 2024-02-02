@@ -26,7 +26,7 @@ def run():
 
    
 
-    st.write("# Don't mind me, I'm just testing things out 👋")
+    st.write("# Hello! this is Rafay, I'm just testing things out in this website for now👋")
 
     
     # st.sidebar.success("Select a demo above.")
